@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tapia - your personal travel assistant]]></title>
+        <description><![CDATA[Tapia - your personal travel assistant]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 22:58:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Angkor Archaeological Park]]></title>
+            <description><![CDATA[<article><h1>Angkor Archaeological Park</h1><p>Designated a UNESCO World Heritage Site in 1992, the temples of Angkor are scattered over some four hundred square kilometers of countryside between the Tonle Sap lake and the Kulen Mountains, although the most famous are clustered close to Siem Reap.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f2940db189272ebf5e36253ad83b26e7/noop.jpg?input=http%3A%2F%2Fwww.sunsaitravel.com%2Fwp-content%2Fuploads%2FSunsai_travel_angkor_wat_cambodia_south_east_asia_1a.jpg"></article>]]></description>
+            <link>http://www.sunsaitravel.com/destination/angkor-archaeological-park/</link>
+            <guid isPermaLink="false">4c13000a-b4f1-49e0-b0e3-9a02081b348b</guid>
+            <pubDate>Tue, 12 Jul 2016 22:58:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
