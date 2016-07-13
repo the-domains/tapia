@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Welcome to TAPIA, the worlds first travel assistant, build with the help of
   Artificial Intelligence. 
-datePublished: '2016-07-13T00:58:26.349Z'
-dateModified: '2016-07-13T00:58:22.455Z'
+datePublished: '2016-07-13T01:19:48.372Z'
+dateModified: '2016-07-13T01:02:09.251Z'
 title: ''
 author: []
 sourcePath: >-
@@ -31,3 +31,4 @@ No matter how you choose to access _**TAPIA**_s knowledge, from a home computer,
 TaPia is still learning, but her knowledge will evolve quickly, with you.
 
 Welcome to the new era of travel. Introducing _**TAPIA!**_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dafd123b-f741-433d-b8bc-9864bb10303b.jpg)
