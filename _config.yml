@@ -1,6 +1,6 @@
 name: tapia
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.50678
 typography_spectrum: 0.40142538328655064
 title: Tapia - your personal travel assistant
 cta:
@@ -22,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.7241824625525624
+  brandStrength: 0.5
   lightness: 0.11422451096586883
   saturation: 0.4422461341600865
   rhythmicContrast: 0.7174854546319693
