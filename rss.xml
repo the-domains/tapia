@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tapia - your personal travel assistant]]></title>
         <description><![CDATA[Tapia - your personal travel assistant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tapia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 00:21:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 00:58:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tapia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to TAPIA, the worlds first travel assistant, build with the help of Artificial Intelligence. </p>]]></description>
-            <link>undefinedwelcome-to-tapia-the-worlds-first-travel-assistant-build-w/index.html</link>
+            <link>https://thegrid.ai/tapia/welcome-to-tapia-the-worlds-first-travel-assistant-build-w/index.html</link>
             <guid isPermaLink="false">36ede06a-4daf-4d6f-b52e-eead4ff227fe</guid>
-            <pubDate>Wed, 13 Jul 2016 00:21:25 GMT</pubDate>
+            <pubDate>Wed, 13 Jul 2016 00:58:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
