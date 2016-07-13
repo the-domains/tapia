@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tapia - your personal travel assistant]]></title>
+        <description><![CDATA[Tapia - your personal travel assistant]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jul 2016 00:21:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to TAPIA, the worlds first travel assistant, build with the help of Artificial Intelligence. </p>]]></description>
+            <link>undefinedwelcome-to-tapia-the-worlds-first-travel-assistant-build-w/index.html</link>
+            <guid isPermaLink="false">36ede06a-4daf-4d6f-b52e-eead4ff227fe</guid>
+            <pubDate>Wed, 13 Jul 2016 00:21:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
