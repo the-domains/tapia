@@ -11,8 +11,8 @@ description: >-
   bars, is the ornate Royal Palace, Silver Pagoda and the National Museum,
   displaying artifacts from around the country. At the city’s heart is massive,
   art deco Central Market.
-datePublished: '2016-07-13T01:46:33.769Z'
-dateModified: '2016-07-13T01:46:24.608Z'
+datePublished: '2016-07-13T01:52:27.976Z'
+dateModified: '2016-07-13T01:50:38.862Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-13-phnom-penh-cambodias-busy-capital-sits-at-the-junction-of.md
@@ -30,3 +30,5 @@ Phnom Penh, Cambodia's busy capital, sits at the junction of the Mekong and Tonl
 **Population:**
 
 1.502 million (2012)
+
+https://www.google.com.au/maps/place/Phnom+Penh+12000,+Cambodia/@11.5796669,104.7500982,11z/data=!3m1!4b1!4m5!3m4!1s0x3109513dc76a6be3:0x9c010ee85ab525bb!8m2!3d11.5448729!4d104.8921668
