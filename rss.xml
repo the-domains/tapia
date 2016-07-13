@@ -4,21 +4,21 @@
         <description><![CDATA[Tapia - your personal travel assistant]]></description>
         <link>https://thegrid.ai/tapia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 01:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 01:46:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tapia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Phnom Penh, Cambodia’s busy capital, sits at the junction of the Mekong and Tonlé Sap rivers. It was a hub for both the Khmer Empire and French colonialists. On its walkable riverfront, lined with parks, restaurants and bars, is the ornate Royal Palace, Silver Pagoda and the National Museum, displaying artifacts from around the country. At the city’s heart is massive, art deco Central Market.</p>]]></description>
+            <link>https://thegrid.ai/tapia/phnom-penh-cambodias-busy-capital-sits-at-the-junction-of/index.html</link>
+            <guid isPermaLink="false">a42bd993-2e67-4b2a-bfb1-a7571d338b0f</guid>
+            <pubDate>Wed, 13 Jul 2016 01:46:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to TAPIA, the worlds first travel assistant, build with the help of Artificial Intelligence. </p>]]></description>
             <link>https://thegrid.ai/tapia/welcome-to-tapia-the-worlds-first-travel-assistant-build-w/index.html</link>
             <guid isPermaLink="false">36ede06a-4daf-4d6f-b52e-eead4ff227fe</guid>
             <pubDate>Wed, 13 Jul 2016 01:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Phnom Penh, Cambodia’s busy capital, sits at the junction of the Mekong and Tonlé Sap rivers. It was a hub for both the Khmer Empire and French colonialists. On its walkable riverfront, lined with parks, restaurants and bars, is the ornate Royal Palace, Silver Pagoda and the National Museum, displaying artifacts from around the country. At the city’s heart is massive, art deco Central Market.</p>]]></description>
-            <link>https://thegrid.ai/tapia/phnom-penh-cambodias-busy-capital-sits-at-the-junction-of/index.html</link>
-            <guid isPermaLink="false">a42bd993-2e67-4b2a-bfb1-a7571d338b0f</guid>
-            <pubDate>Wed, 13 Jul 2016 01:19:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
