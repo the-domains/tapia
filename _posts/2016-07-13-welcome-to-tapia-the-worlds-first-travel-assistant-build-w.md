@@ -7,15 +7,15 @@ keywords: []
 description: >-
   Welcome to TAPIA, the worlds first travel assistant, build with the help of
   Artificial Intelligence. 
-datePublished: '2016-07-13T00:21:25.170Z'
-dateModified: '2016-07-13T00:20:29.390Z'
+datePublished: '2016-07-13T00:58:26.349Z'
+dateModified: '2016-07-13T00:58:22.455Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-07-13-welcome-to-tapia-the-worlds-first-travel-assistant-build-w.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-13-welcome-to-tapia-the-worlds-first-travel-assistant-build-w.md
 url: welcome-to-tapia-the-worlds-first-travel-assistant-build-w/index.html
 _type: Article
 
