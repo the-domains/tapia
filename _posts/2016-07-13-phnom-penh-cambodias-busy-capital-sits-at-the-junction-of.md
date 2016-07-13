@@ -11,14 +11,14 @@ description: >-
   bars, is the ornate Royal Palace, Silver Pagoda and the National Museum,
   displaying artifacts from around the country. At the city’s heart is massive,
   art deco Central Market.
-datePublished: '2016-07-13T01:06:00.381Z'
-dateModified: '2016-07-13T01:05:32.615Z'
+datePublished: '2016-07-13T01:19:37.603Z'
+dateModified: '2016-07-13T01:06:06.407Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-13-phnom-penh-cambodias-busy-capital-sits-at-the-junction-of.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-13-phnom-penh-cambodias-busy-capital-sits-at-the-junction-of.md
 url: phnom-penh-cambodias-busy-capital-sits-at-the-junction-of/index.html
 _type: Article
 
